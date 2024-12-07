@@ -3,4 +3,4 @@
 - **MBTI:** INTP
 - **Edad:** 18
 - **Pronombres:** El
-_ **Genero:** Masculino
+- **Genero:** Masculino
